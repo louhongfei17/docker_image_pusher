@@ -1,1 +1,1 @@
-rancher/rancher
+mysql:8.0
