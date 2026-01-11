@@ -1,1 +1,1 @@
-minio:latest
+quay.io/minio/minio:latest
