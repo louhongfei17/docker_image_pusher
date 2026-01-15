@@ -1,4 +1,4 @@
 postgres:15-alpine
 redis:7-alpine
 emqx:5.3.0
-zhaojh329/rtty:latest
+rtty:latest
