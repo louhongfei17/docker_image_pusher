@@ -1,1 +1,1 @@
-quay.io/minio/minio:latest
+busybox:latest
